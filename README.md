@@ -1,2 +1,2 @@
-# EAD2-CW-Personal-Finance-System-Backend
+# ead-my-finance-backend
 EAD2 CW Backend API Java
